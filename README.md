@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jemima.
+- 👀 I’m interested in connection health platforms with each other.
+- 🌱 I’m currently learning Javascript.
